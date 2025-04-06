@@ -13,6 +13,7 @@
 <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React Icon" />
 <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB Icon" />
 <img src="https://img.icons8.com/color/48/000000/android-studio.png" alt="Android Studio Icon" />
+<img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase Icon" />
 </p>
 
 ---
@@ -44,6 +45,7 @@
 - 🔹 Flutter, Dart
 - 🔹 React
 - 🔹 Android Studio
+- 🔹 Firebase, Firestore
 
 ---
 
