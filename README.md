@@ -1,16 +1,30 @@
-## Hi there 👋
+<p align="center">
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java Icon" />
+<img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Icon" />
+<img src="https://img.icons8.com/ios-filled/50/4479A1/mysql-logo.png" alt="MySQL Icon" />
+<img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub Icon" />
+<img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IntelliJ Icon" />
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5 Icon" />
+<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3 Icon" />
+<img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript Icon" />
+</p>
 
-<!--
-**kalush666/kalush666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 📈 My GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=kalush666&show_icons=true&theme=radical" alt="GitHub Stats" />
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalush666&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 🌟 Goals for 2025
+
+- 🚀 Master Spring Boot and web development  
+- 🏆 Contribute to open-source projects  
+- 📚 Continue building innovative and practical projects  
+
+---
