@@ -11,6 +11,8 @@
 <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter Icon" />
 <img src="https://img.icons8.com/color/48/000000/dart.png" alt="Dart Icon" />
 <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React Icon" />
+<img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB Icon" />
+<img src="https://img.icons8.com/color/48/000000/android-studio.png" alt="Android Studio Icon" />
 </p>
 
 ---
@@ -25,10 +27,29 @@
 
 ---
 
-### 🌟 Goals for 2025
+### 🧑‍💻 About Me
 
-- 🚀 Master Spring Boot and web development  
-- 🏆 Contribute to open-source projects  
-- 📚 Continue building innovative and practical projects  
+- 💼 Software Developer with a passion for creating innovative solutions
+- 🌐 Experienced in full-stack web development
+- 🎓 Lifelong learner, always exploring new technologies
+
+---
+
+### 🔧 Technologies & Tools
+
+- 🔹 Java, Spring Boot
+- 🔹 MySQL, PostgreSQL, MongoDB
+- 🔹 HTML, CSS, JavaScript
+- 🔹 Python, C
+- 🔹 Flutter, Dart
+- 🔹 React
+- 🔹 Android Studio
+
+---
+
+### 📫 How to Reach Me
+
+- 📧 Email: jonathan.kalush@gmail.com
+- 📸 Instagram: [jonathan_kalush](https://www.instagram.com/jonathan_kalush)
 
 ---
