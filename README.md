@@ -21,13 +21,14 @@
 
 ### 📊 My GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kalush666&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalush666&layout=compact&theme=radical&cache_seconds=1800" alt="Top Languages" />
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=kalush666&style=flat-square" alt="Visitor Counter"/>
-</p>
+<!-- GitHub Stats Card (auto-updates on each refresh) -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kalush666&show_icons=true&theme=radical)
+
+<!-- GitHub Streak Stats (auto-updates on each refresh) -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kalush666&theme=radical)
+
+<!-- Top Languages Card (auto-updates on each refresh) -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kalush666&layout=compact&theme=radical)
 
 ---
 
