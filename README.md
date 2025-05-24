@@ -28,7 +28,7 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kalush666&theme=radical)
 
 <!-- Top Languages Card (auto-updates on each refresh) -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kalush666&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kalush666&layout=compact&theme=radical&langs_count=20)
 
 ---
 
