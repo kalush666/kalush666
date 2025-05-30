@@ -15,6 +15,8 @@
   <img src="https://img.icons8.com/color/48/000000/android-studio.png" alt="Android Studio Icon" />
   <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase Icon" />
   <img src="https://img.icons8.com/color/48/000000/golang.png" alt="Go Icon" />
+  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker Icon" />
+  <img src="https://img.icons8.com/color/48/000000/make.png" alt="Make Icon" />
 </p>
 
 ---
@@ -48,6 +50,8 @@
 - 🔹 React
 - 🔹 Android Studio
 - 🔹 Firebase, Firestore
+- 🔹 Docker
+- 🔹 Make
 
 ---
 
