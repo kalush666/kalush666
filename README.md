@@ -16,48 +16,5 @@
   <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase Icon" />
   <img src="https://img.icons8.com/color/48/000000/golang.png" alt="Go Icon" />
   <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker Icon" />
-  <img src="https://img.icons8.com/color/48/000000/make.png" alt="Make Icon" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Makefile_logo.png" alt="Make Icon" />
 </p>
-
----
-
-### 📊 My GitHub Stats
-
-<!-- GitHub Stats Card (auto-updates on each refresh) -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kalush666&show_icons=true&theme=radical)
-
-<!-- Top Languages Card (auto-updates on each refresh) -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kalush666&layout=compact&theme=radical&langs_count=20)
-
----
-
-### 🧑‍💻 About Me
-
-- 💼 Software Developer with a passion for creating innovative solutions
-- 🌐 Experienced in full-stack web development
-- 🎓 Lifelong learner, always exploring new technologies
-
----
-
-### 🔧 Technologies & Tools
-
-- 🔹 Java, Spring Boot
-- 🔹 Go (Golang)
-- 🔹 MySQL, PostgreSQL, MongoDB
-- 🔹 HTML, CSS, JavaScript
-- 🔹 Python, C
-- 🔹 Flutter, Dart
-- 🔹 React
-- 🔹 Android Studio
-- 🔹 Firebase, Firestore
-- 🔹 Docker
-- 🔹 Make
-
----
-
-### 📫 How to Reach Me
-
-- 📧 Email: jonathan.kalush@gmail.com
-- 📸 Instagram: [jonathan_kalush](https://www.instagram.com/jonathan_kalush)
-
----
