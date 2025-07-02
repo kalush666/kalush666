@@ -2,9 +2,9 @@
 
 <div align="center">
   
-  ### 🚀 Full-Stack Developer | 💡 Problem Solver | 🌱 Continuous Learner
+  ### 🚀 Full-Stack Developer | 💡 Innovation Architect | 🌱 Lifelong Learner
   
-  *Passionate about building innovative solutions that make a difference*
+  *Crafting scalable solutions and turning ideas into digital reality*
   
   [![Email](https://img.shields.io/badge/Email-jonathan.kalush%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonathan.kalush@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-jonathan__kalush-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jonathan_kalush)
@@ -15,172 +15,198 @@
 
 ---
 
-## 📂 Latest Repositories
+## 🚀 Quick Overview
 
 <div align="center">
-  
-  [![GitHub Repository](https://img.shields.io/badge/View%20My-Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kalush666?tab=repositories)
-  
-  **🔥 Check out my latest projects and contributions!**
-  
-  *Click above to explore all my repositories*
-  
-</div>
-
----
-
-## 💡 Programming Philosophy
-
-<div align="center">
-
-> *"The architecture of software is the first line of defense against complexity."* - Uncle Bob Martin
-
-</div>
-
-**My Development Principles:**
-- 🏗️ **SOLID principles are the foundation of maintainable code**
-- 🎯 **Single Responsibility: Each class should have one reason to change**
-- 🔒 **Open/Closed: Open for extension, closed for modification**
-- 🔄 **Dependency Inversion: Depend on abstractions, not concretions**
-- 🧱 **Clean Architecture: Business logic should be independent of frameworks**
-- 📐 **Design Patterns solve common problems elegantly**
-
----
-
-## 🎮 When I'm Not Coding
-
-<div align="center">
-
-| 🏋️‍♂️ Fitness | 🎸 Music | 🍳 Cooking |
-|---------------|----------|------------|
-| Gym workouts, Strength training | Playing guitar, Learning new songs | Exploring recipes, Experimenting with flavors |
-
-**Current Focus:** *Building strength in the gym, mastering new guitar riffs, and perfecting my pasta recipes* 🎯
-
-</div>
-
----
-
-## 🧑‍💻 About Me
 
 ```yaml
 name: Jonathan Kalush
-role: Software Developer
-focus: Full-Stack Development
-philosophy: "Code is poetry, bugs are just plot twists"
-current_status: "Building the future, one commit at a time"
+role: Full-Stack Software Developer
+specialization: [Web Applications, Mobile Apps, Enterprise Solutions]
+current_focus: Building scalable architectures with modern tech stacks
+philosophy: "Clean code is not written by following a set of rules. Clean code is written by programmers who care."
+mission: "Transforming complex problems into elegant, user-centric solutions"
 ```
 
-- 🔭 Currently working on exciting full-stack projects
-- 🌱 Always learning new technologies and best practices
-- 💡 Love turning ideas into reality through code
-- 🎯 Goal: Creating scalable, maintainable, and user-friendly applications
-- ⚡ Fun fact: I debug with coffee and solve problems with creativity
-- 🌍 Open to collaborating on innovative open-source projects
-- 🎨 Passionate about clean code and elegant solutions
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technology Arsenal
 
 <div align="center">
 
-### 💻 Languages
+### 💻 Core Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-### 🌐 Frontend
+### 🎨 Frontend Mastery
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### 🖥️ Desktop
-![WPF](https://img.shields.io/badge/WPF-68217A?style=for-the-badge&logo=windows&logoColor=white)
-
-### ⚙️ Backend & Frameworks
+### ⚙️ Backend & Server Technologies
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
-### 🗄️ Databases
+### 🗄️ Database Technologies
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### 🔧 Tools & Platforms
+### 🛠️ DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Make](https://img.shields.io/badge/Make-427819?style=for-the-badge&logo=gnu&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Make](https://img.shields.io/badge/Make-427819?style=for-the-badge&logo=gnu&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 Coding Stats & Insights
+## 💡 Development Philosophy & Principles
+
+<div align="center">
+
+> *"The best programs are written not by typing more code but by typing the right code."* - Clean Code
+
+</div>
+
+**🏗️ Architecture & Design Principles:**
+- **SOLID Principles**: Foundation for maintainable and scalable code
+- **Clean Architecture**: Separating concerns and dependencies
+- **Design Patterns**: Solving recurring problems with proven solutions
+- **Test-Driven Development**: Quality through comprehensive testing
+- **Microservices**: Building resilient, scalable distributed systems
+- **API-First Design**: Creating robust, documented interfaces
+
+**🔄 Development Practices:**
+- Agile methodologies and continuous integration
+- Code reviews and pair programming
+- Documentation-driven development
+- Performance optimization and monitoring
+- Security-first implementation
+- Accessibility and inclusive design
+
+---
+
+## 🎯 Current Focus & Goals
+
+<div align="center">
+
+| 🔥 Current Projects | 🎓 Learning | 🚀 Goals 2025 |
+|-------------------|-------------|----------------|
+| Full-stack web applications | Cloud Architecture (AWS/Azure) | Contribute to major open-source projects |
+| Mobile app development | Machine Learning integration | Build a SaaS product |
+| Microservices architecture | Advanced Angular patterns | Mentor junior developers |
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kalush666&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalush666&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=60"/>  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kalush666&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&background=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalush666&layout=compact&langs_count=10&theme=github_dark&hide_border=true&background=0D1117"/>
+  
 </div>
 
 <div align="center">
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kalush666&theme=tokyonight)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kalush666&theme=github-dark-blue&hide_border=true&background=0D1117)
   
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements & Recognition
 
 <div align="center">
   
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=kalush666&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+  ![Trophies](https://github-profile-trophy.vercel.app/?username=kalush666&theme=onestar&no-frame=true&no-bg=true&margin-w=4&row=2&column=4)
   
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <div align="center">
   
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kalush666&theme=tokyo-night)
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kalush666&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF)
   
 </div>
 
 ---
 
-## 💭 Random Dev Quote
+## 🎮 Beyond the Code
+
+<div align="center">
+
+**When I'm not crafting code, you'll find me:**
+
+| 🏋️‍♂️ **Fitness** | 🎸 **Music** | 🍳 **Culinary Arts** |
+|------------------|--------------|---------------------|
+| Strength training & functional fitness | Guitar playing & music composition | Exploring international cuisines |
+
+
+</div>
+
+---
+
+## 📂 Featured Projects
 
 <div align="center">
   
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+  [![Repositories](https://img.shields.io/badge/🔍_Explore_My-Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kalush666?tab=repositories)
+  
   
 </div>
 
 ---
 
-## 🤝 Let's Connect!
+## 💬 Let's Connect & Collaborate
 
 <div align="center">
   
-  I'm always interested in collaborating on exciting projects or discussing new technologies!
+  **I'm passionate about:**
+  - 🤝 Open source collaboration
+  - 💡 Innovative problem-solving
+  - 🌱 Knowledge sharing and mentoring
+  - 🚀 Building impactful technology solutions
   
-  **"The best way to predict the future is to create it."** - Peter Drucker
+  **Open to discussing:**
+  - Full-stack development opportunities
+  - Tech architecture and best practices
+  - Startup ideas and entrepreneurship
+  - Music, fitness, and life balance
   
-  [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=kalush666.kalush666)](https://github.com/kalush666)
+  > *"The best way to predict the future is to create it."* - Peter Drucker
+  
+  [![Profile Views](https://komarev.com/ghpvc/?username=kalush666&style=for-the-badge&color=brightgreen)](https://github.com/kalush666)
+  
+</div>
+
+---
+
+## 💭 Daily Inspiration
+
+<div align="center">
+  
+  ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true)
   
 </div>
 
@@ -188,7 +214,11 @@ current_status: "Building the future, one commit at a time"
 
 <div align="center">
   
-  ### 🌟 Thanks for visiting my profile! 
-  *Don't forget to ⭐ some repositories if you find them interesting!*
+  ### 🌟 Thank you for visiting!
+  
+  *If you find my work interesting, consider following and starring some repositories!*  
+  *Always open to feedback, collaboration, and meaningful conversations.*
+  
+  **Happy Coding! 🚀**
   
 </div>
