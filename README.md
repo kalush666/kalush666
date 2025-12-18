@@ -7,6 +7,7 @@
   *Crafting scalable solutions and turning ideas into digital reality*
   
   [![Email](https://img.shields.io/badge/Email-jonathan.kalush%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonathan.kalush@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jonathan_Kalush-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-kalush-3a90393a0/)
   [![Instagram](https://img.shields.io/badge/Instagram-jonathan__kalush-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jonathan_kalush)
   [![Apple Music](https://img.shields.io/badge/Apple_Music-jonathan__kalush-FA243C?style=for-the-badge&logo=apple-music&logoColor=white)](https://music.apple.com/profile/jonathan_kalush)
   [![GitHub followers](https://img.shields.io/github/followers/kalush666?style=for-the-badge&logo=github)](https://github.com/kalush666)
