@@ -22,7 +22,7 @@
 
 ```yaml
 name: Jonathan Kalush
-role: Software Engineering Student @ ORT Singalovski College
+role: Software Engineer
 based_in: Israel  (Hebrew / English)
 specialization: [Microservices, Real-Time Telemetry, Distributed Systems, Optimization]
 flagship: SMART — UAV telemetry & mission-assignment platform
